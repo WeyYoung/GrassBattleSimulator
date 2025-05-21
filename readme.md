@@ -30,13 +30,16 @@ python3 main.py
 
 File Structure
 
-.
-├── main.py         # Main game loop and player interaction
-├── map.py          # Map creation and display logic
-├── player.py       # Player class with movement and stats
-├── battle.py       # Battle mini-game using rock-paper-scissors
-├── wildmon.py      # Wild monster and boss class
-├── README.md       # Game documentation
+
+GrassBattleSimulator/
+├── main.py        # Main game loop and player interaction
+├── map.py         # Map creation and display logic
+├── player.py      # Player class with movement and stats
+├── battle.py      # Battle mini-game using rock-paper-scissors
+├── wildmon.py     # Wild monster and boss class
+├── README.md      # Game documentation
+├── cover.png      # Project cover image (optional)
+├── .gitignore     # Ignore system and cache files
 
 License
 
